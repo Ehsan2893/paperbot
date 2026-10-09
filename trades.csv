@@ -1,2 +1,3 @@
 time,chain,symbol,entry,exit,pnl_pct,profit_usd,reason,minutes
 10-08 21:19,solana,Frank,0.0007241,0.0006821,-7.3,-0.584,SL,20
+10-09 02:30,solana,OWLNIGHT,0.0007639,0.0008307,7.24,0.58,TP,18
