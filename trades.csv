@@ -3,3 +3,4 @@ time,chain,symbol,entry,exit,pnl_pct,profit_usd,reason,minutes
 10-09 02:30,solana,OWLNIGHT,0.0007639,0.0008307,7.24,0.58,TP,18
 10-09 06:55,solana,SI276,0.001898,0.001853,-3.87,-0.31,TIME,66
 10-09 15:31,solana,Gary,0.0004826,0.0003589,-27.13,-2.171,SL,20
+10-09 23:07,robinhood,GOOD,0.002101,0.002049,-3.98,-0.318,TIME,66
