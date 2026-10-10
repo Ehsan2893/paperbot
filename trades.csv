@@ -7,3 +7,4 @@ time,chain,symbol,entry,exit,pnl_pct,profit_usd,reason,minutes
 10-10 02:30,bsc,TART,0.001461,0.001548,4.45,0.356,TIME,68
 10-10 10:58,solana,GOMO,0.001313,0.001246,-6.6,-0.528,SL,61
 10-10 13:19,robinhood,GIGATENEV,0.000578,0.0004598,-21.95,-1.756,SL,18
+10-10 18:39,solana,qOMPUTE,0.0017,0.00113,-35.03,-2.802,SL,21
