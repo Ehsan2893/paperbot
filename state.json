@@ -1,1 +1,1 @@
-{"balance": 37.02547053745513, "open": [], "recent": {"solana:9XKzy4KahcZaGJPJtz1PtqGPB3CiseoBrx7TcQhEpump": 1791626273.5115895}}
+{"balance": 29.025470537455128, "open": [{"chain": "robinhood", "addr": "0xC9675fe679C7d4e1b94416F66D61c96127eb964a", "sym": "GIGATENEV", "entry": 0.000578, "t": 1791637260.7250085}], "recent": {"solana:9XKzy4KahcZaGJPJtz1PtqGPB3CiseoBrx7TcQhEpump": 1791626273.5115895, "robinhood:0xC9675fe679C7d4e1b94416F66D61c96127eb964a": 1791637260.7250085}}
