@@ -5,3 +5,4 @@ time,chain,symbol,entry,exit,pnl_pct,profit_usd,reason,minutes
 10-09 15:31,solana,Gary,0.0004826,0.0003589,-27.13,-2.171,SL,20
 10-09 23:07,robinhood,GOOD,0.002101,0.002049,-3.98,-0.318,TIME,66
 10-10 02:30,bsc,TART,0.001461,0.001548,4.45,0.356,TIME,68
+10-10 10:58,solana,GOMO,0.001313,0.001246,-6.6,-0.528,SL,61
