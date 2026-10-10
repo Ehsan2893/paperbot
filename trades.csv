@@ -9,3 +9,4 @@ time,chain,symbol,entry,exit,pnl_pct,profit_usd,reason,minutes
 10-10 13:19,robinhood,GIGATENEV,0.000578,0.0004598,-21.95,-1.756,SL,18
 10-10 18:39,solana,qOMPUTE,0.0017,0.00113,-35.03,-2.802,SL,21
 10-10 18:55,base,GACHA,0.0003454,0.0003231,-7.96,-0.637,SL,16
+10-10 20:06,solana,Frank,0.0003969,0.0003843,-4.67,-0.374,TIME,71
