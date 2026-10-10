@@ -1,1 +1,1 @@
-{"balance": 35.269484378285576, "open": [], "recent": {"robinhood:0xC9675fe679C7d4e1b94416F66D61c96127eb964a": 1791637260.7250085}}
+{"balance": 27.269484378285576, "open": [{"chain": "solana", "addr": "BQAeeSowpwEx8Km8GcporcbuLKq4a7EQceH3F2qZpump", "sym": "qOMPUTE", "entry": 0.0017, "t": 1791656324.1984315}], "recent": {"robinhood:0xC9675fe679C7d4e1b94416F66D61c96127eb964a": 1791637260.7250085, "solana:BQAeeSowpwEx8Km8GcporcbuLKq4a7EQceH3F2qZpump": 1791656324.1984315}}
