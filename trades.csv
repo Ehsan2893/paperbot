@@ -11,3 +11,4 @@ time,chain,symbol,entry,exit,pnl_pct,profit_usd,reason,minutes
 10-10 18:55,base,GACHA,0.0003454,0.0003231,-7.96,-0.637,SL,16
 10-10 20:06,solana,Frank,0.0003969,0.0003843,-4.67,-0.374,TIME,71
 10-10 22:21,solana,SI276,0.0006867,0.0006458,-7.46,-0.596,SL,29
+10-12 09:36,solana,CLAUDIA,0.00741,0.007479,-0.57,-0.046,TIME,64
